@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Karthikeyan project
 
 
 **Use your preferred IDE**
