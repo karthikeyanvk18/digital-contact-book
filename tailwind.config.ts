@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,6 +62,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Custom colors for our contact book
+				'contact-purple': {
+					light: '#e5deff',
+					DEFAULT: '#9b87f5',
+					dark: '#6e59a5'
+				},
+				'contact-gray': {
+					light: '#f6f6f8',
+					DEFAULT: '#8E9196',
+					dark: '#333333'
 				}
 			},
 			borderRadius: {
